@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Raw source text (copyright — must be extracted locally)
+data/raw/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Validation report added after Stage 3
+# data/processed/validation_report.json
