@@ -1,0 +1,34 @@
+HAYDEN ETHNOGRAPHIC DATASET — ANALYSIS SUMMARY
+Generated: 2026-04-26T18:28:28.416920
+
+CORPUS
+  Source: Hayden (2018) The Power of Ritual in Prehistory, Chapters 2–9
+  Societies coded: 84
+  Criteria assessed: 11 (6 core + 5 extended from Ch.10 material patterns)
+
+FREQUENCY TABLE (present or partial / total societies)
+  C01 transformation_symbolism             83/84 (98.8%)  StarCarr=present
+  C02 feasting                             84/84 (100.0%)  StarCarr=present
+  C03 exotic_prestige_materials            79/84 (94.0%)  StarCarr=present
+  C04 spatial_liminality                   57/84 (67.9%)  StarCarr=present
+  C05 long_duration_institutional          84/84 (100.0%)  StarCarr=present
+  C06 burial_absence                       14/84 (16.7%)  StarCarr=present
+  C07 special_structure                    77/84 (91.7%)  StarCarr=present
+  C08 remote_locations                     69/84 (82.1%)  StarCarr=unclear
+  C09 ritual_paraphernalia_cache           83/84 (98.8%)  StarCarr=partial
+  C10 power_animal_iconography             80/84 (95.2%)  StarCarr=present
+  C11 interaction_sphere                   84/84 (100.0%)  StarCarr=present
+
+STAR CARR PROFILE
+  Criteria met (present or partial): 10/11
+  Mean baseline across criteria: 85.9%
+
+METHODS NOTE (for paper)
+  Ethnographic cases were extracted from Hayden (2018) Chapters 2–9 using a 
+  two-stage LLM pipeline (Stage 1: society identification with claude-haiku; 
+  Stage 2: structured criteria extraction with claude-sonnet). A 84-society 
+  corpus was coded against 11 material and spatial criteria derived from Hayden's 
+  own synthesis (Chapter 10). Manual spot-check validation of 10% of records 
+  was conducted against source text prior to analysis. The Star Carr evidence 
+  profile was coded independently from the paper's existing argument and compared 
+  against the ethnographic frequency baseline for each criterion.

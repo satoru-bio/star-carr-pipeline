@@ -1,0 +1,598 @@
+{
+  "n_sampled": 8,
+  "n_total": 84,
+  "tp": 77,
+  "fp": 1,
+  "tn": 10,
+  "fn": 0,
+  "precision": 0.987,
+  "recall": 1.0,
+  "f1": 0.994,
+  "results": [
+    {
+      "society_id": "H18_062",
+      "society_name": "Arikara Secret Societies",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "partial",
+          "extracted_evidence": "Women's Goose Society performed maize rituals; Bear Society members danced like bears; transformation implied but limited detail.",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Medicine Pipe Society required holding feasts; Oglala societies gave food/goods; feasts prerequisite for membership.",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "unclear",
+          "extracted_evidence": "Sacred bundles and medicine bags mentioned but no specific exotic non-local materials described for Arikara specifically.",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "unclear",
+          "extracted_evidence": "No specific liminal site locations described for Arikara ritual spaces in this text.",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "partial",
+          "extracted_evidence": "Sequential ranked societies with hereditary-like roles and institutional structure implied across generations for Plains groups broadly.",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "No information on mortuary practices or burial locations relative to ritual sites provided in text.",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "partial",
+          "extracted_evidence": "Leader Lodge mentioned as distinct structure; ceremonial lodges implied but not architecturally described for Arikara specifically.",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "unclear",
+          "extracted_evidence": "No mention of remote locations or isolated camps used for Arikara initiation or ritual seclusion.",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Sacred war bundles, medicine bags, sacred bundles kept secret; bundle-based societies with esoteric powers explicitly described.",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bear Society, Buffalo Society, animal patrons; Iowa Animal Society uses animal patrons; bears, buffalo spirits depicted ritually.",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Society of Chiefs spans thirteen Pawnee villages; shared bundle-society forms across Arikara, Pawnee, Mandan, Iowa, Omaha, Blackfoot.",
+          "validator_correct": true
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "society_id": "H18_014",
+      "society_name": "Kusiut and Sisaok Societies",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Bear, wolf, eagle spirit possessions; cannibalistic transformations; spirit patrons characterize society dances among Bella Coola.",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Feasts opened winter season, given after all Kusiut performances, at initiation culmination; best food always provided.",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "partial",
+          "extracted_evidence": "Crystals mentioned as shot into initiates and removed by marshals; regalia acquired via marriage dowry, but limited detail.",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "unclear",
+          "extracted_evidence": "No specific mention of liminal site locations for Kusiut/Sisaok ritual spaces in the text.",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Hereditary positions, repeated initiations across generations, annual winter ceremonials; marshals maintained multi-village policing across generations.",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "Cave burials mentioned generally for Northwest Coast; no specific Kusiut/Sisaok burial location data provided.",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "partial",
+          "extracted_evidence": "Dance house referenced for performances; candidate's family house used for feasts, but dedicated ceremonial structure not explicitly described.",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "partial",
+          "extracted_evidence": "Chiefs' sons underwent repeated seclusions; novices went on spirit quests, but specific remote locations not detailed for Bella Coola.",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Secret society knowledge strictly guarded; revealing secrets punishable by raids; marshals policed supernatural fictions from non-initiates.",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bear, wolf, eagle as most powerful animals, hungering for human flesh; imaginary sea monsters like Sisiutl featured in iconography.",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Invitations sent to Nass River and Alert Bay; Kusiut members accepted across villages; inter-tribal marshal cooperation explicitly stated.",
+          "validator_correct": true
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "society_id": "H18_047",
+      "society_name": "Zuni Rain-making Societies",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Masks worn to impersonate spirits; members transform into bears; katsina masks enable human-spirit boundary crossing",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Feasting mentioned as typical ritual feature; cooks listed as specialist roles; feasting at ceremonies documented",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "present",
+          "extracted_evidence": "Shells (abalone, olivella, cowrie, conch), quartz crystals, and exotic materials used in restricted ritual contexts",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "present",
+          "extracted_evidence": "Masks kept in sipapu cave six miles from pueblo; shrines at water margins, caves, and remote locations deliberately used",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Hereditary clan ownership of kivas and masks; multi-generational use of kivas and society houses maintained institutionally",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "Text mentions deceased members living on in masks but does not directly address burial separation from ritual loci",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "present",
+          "extracted_evidence": "Kivas and society houses purpose-built for restricted ritual use, distinct from residential architecture",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Shrines and caves at 6 to 80 miles from villages used for pilgrimages and private ceremonies by secret society leaders",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Most sacred items cached, rarely seen, highly curated; masks stored in remote caves; fetishes seen only by ordained priests",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bear iconography prominent; stone animal sculptures as society patrons; cougar and snake designs on ceramics; bear shamans as enforcers",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Shared katsina cult, shell networks, and ritual practices documented across multiple Pueblo groups and linguistic boundaries",
+          "validator_correct": true
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "society_id": "H18_034",
+      "society_name": "Kuksu",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Spirit costumes with animal skins, horns, hooves; bear/Kuksu impersonators; masked dances across multiple groups",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Elite feasting with stone ollas/mortars; long feasting tables near dance houses; inter-community ritual feasts",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "present",
+          "extracted_evidence": "Crystals, shells, obsidian, feathers, mountain lion claws, hawk beaks/claws in sacred bundles and costumes",
+          "validator_correct": false
+        },
+        {
+          "code": "C04",
+          "extracted": "present",
+          "extracted_evidence": "Semi-subterranean dance houses; caves used for rituals; bush houses in hills; mountaintop shrines",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Hereditary roles and memberships; dance houses inherited; multi-generational use of same ritual locations",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "partial",
+          "extracted_evidence": "One Patwin dance house held 30 cremations; Maidu secret society members cremated separately from others",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "present",
+          "extracted_evidence": "Large earth-covered dance houses, sacred enclosures, men's houses, secret society headquarters distinct from residences",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Initiations 'in the hills,' mountaintop shrines, bush dance houses 200-300m outside villages, caves for rituals",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Ritual paraphernalia stored in caves, rock shelters, chief's residence; sacred bundles kept secret from non-initiates",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bear, mountain lion, condor, eagle, hawk iconography; bear impersonators; coyote skins as altar containers",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Kuksu Cult integrated hundreds of communities across language groups; ritual purchase/spread between villages; regional networks",
+          "validator_correct": true
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "society_id": "H18_071",
+      "society_name": "Nimangki",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Terror masks used to terrify novices; high-ranking members possessed headdresses with supernatural power; spirit effigies inhabited by dead members",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Candidates gave great banquets; piles of food collected; large yam gardens planted for required feasts; feasts for promotion",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "present",
+          "extracted_evidence": "Shell money, wealth mats, pig tusk bracelets, stone monoliths, and carved statues required as initiation payments and paraphernalia",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "partial",
+          "extracted_evidence": "Seclusion in bush mentioned; initiations in clubhouse (amel); no explicit water margin or cave liminality described",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Nimangki had 32 grades with hereditary sponsorship; statues housed spirits of previous grade holders including original founders",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "Text focuses on ancestor spirits in statues/stones but does not explicitly describe burial locations relative to ritual sites",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "present",
+          "extracted_evidence": "Nimangki clubhouse (amel) used for seclusion; candidates not permitted to eat in Nimangki clubhouse; distinct ritual structure described",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Higher grade initiations involved one year seclusion in amel; vast pile of food taken to bush by society members during initiations",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Rank-specific paraphernalia, headdresses, statues, and monoliths held secret power; could harm uninitiated; sold with rank positions",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Terror masks embodying dangerous spirits/ghosts used to terrify; ogresses that eat men; spirit effigies with harmful supernatural power",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Nimangki system including songs, dances, art, and customs bought and sold between ethnic groups on Malekula; high grades introduced from other groups",
+          "validator_correct": true
+        }
+      ],
+      "notes": "y"
+    },
+    {
+      "society_id": "H18_005",
+      "society_name": "Fire Thrower and Destroyer Societies",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Masks, costumes used to assume spirit roles; initiates said to die and return transformed; possession by ancestral spirits.",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Numerous feasts on nightly basis during ritual season; grandiose feasts at sons' initiations described as greatest potlatch of career.",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "present",
+          "extracted_evidence": "Quartz crystals, cowrie shells, copper nails, exotic pelts, decorated boxes among initiation wealth items used ritually.",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "partial",
+          "extracted_evidence": "Special meeting places 150-400 meters outside villages; caves used for seclusion and storage; no structures built at remote locations.",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Hereditary roles tied to descent groups; chiefly offices linked to secret societies; multi-generational transmission of spirit powers.",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "Burials of high-ranking members not distinguished from chiefly burials; shamans buried in caves but uncertain if secret society members.",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "partial",
+          "extracted_evidence": "Ceremonies held inside community houses appropriated and rearranged for purpose; no purpose-built separate ceremonial structures reported.",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Candidates taken to secluded locations outside villages for seclusion; caves used for meetings and ritual storage.",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Ritual paraphernalia stored in faraway locations including rock shelters and caves; secrets kept from non-initiates on pain of death.",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bears, wolves, ravens, eagles, killer whales, thunderbirds, sea monsters emphasized as power sources; non-prey therianthropic imagery.",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Northwest Coast Interaction Sphere explicitly named; shared art styles, masks, rituals across Tsimshian, Tlingit, Kwakwakawakw, Bella Coola, Nuuchahnulth.",
+          "validator_correct": true
+        }
+      ],
+      "notes": "y"
+    },
+    {
+      "society_id": "H18_051",
+      "society_name": "Arikara Medicine Society",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Animal costumes with horns, fox mandibles, owl elements, coyote/raven skins with heads used in ceremonies.",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Virtually all ceremonies and initiations accompanied by feasts, including some for general public.",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "present",
+          "extracted_evidence": "Exotic shells and stones listed among paraphernalia used in restricted ritual contexts.",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "present",
+          "extracted_evidence": "Hilltops, caves, woods locations used; tipis located in center of villages or woods at remove.",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "Loosely hereditary membership across generations; hereditary privileges noted; institutionalised return implied.",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "unclear",
+          "extracted_evidence": "No mention of burial practices or mortuary activity at ritual sites in the text.",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "present",
+          "extracted_evidence": "Earth lodge structures holding 500-600 people erected specifically for secret society ceremonies.",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Hilltops, solitary tents, caves used for fasting and visions; tipis in woods at remove from villages.",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Medicine bags and bundles, sacred paraphernalia kept secret from non-initiates; revealing society tricks caused death.",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bears, rattlesnakes, mythical water monsters, ghosts as power animal patrons; raven/coyote/eagle elements used.",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Regional gatherings of 12-13 villages; some societies incorporated members from different ethnic groups.",
+          "validator_correct": true
+        }
+      ],
+      "notes": "y"
+    },
+    {
+      "society_id": "H18_015",
+      "society_name": "Tsimshian secret societies",
+      "criteria_results": [
+        {
+          "code": "C01",
+          "extracted": "present",
+          "extracted_evidence": "Masks, costumes, animal personas (bears, wolves, ravens) used in transformation rituals; wolf impersonators, cannibal spirit possession documented.",
+          "validator_correct": true
+        },
+        {
+          "code": "C02",
+          "extracted": "present",
+          "extracted_evidence": "Initiation feasts and winter ceremonial feasts documented; feasting in dance houses and potlatch houses mentioned.",
+          "validator_correct": true
+        },
+        {
+          "code": "C03",
+          "extracted": "partial",
+          "extracted_evidence": "Crystals mentioned (marshals removing crystals); copper implied via prestige regalia; explicit aggregation at restricted loci not fully described.",
+          "validator_correct": true
+        },
+        {
+          "code": "C04",
+          "extracted": "present",
+          "extracted_evidence": "Secret meeting places at waterfalls, cliff bases, caves, forest edges; Rose Island outside Port Simpson used by secret societies.",
+          "validator_correct": true
+        },
+        {
+          "code": "C05",
+          "extracted": "present",
+          "extracted_evidence": "",
+          "validator_correct": true
+        },
+        {
+          "code": "C06",
+          "extracted": "partial",
+          "extracted_evidence": "Sisaok leader buried in community cemetery behind houses; some shamans buried in caves; no burials at main ritual sites described.",
+          "validator_correct": true
+        },
+        {
+          "code": "C07",
+          "extracted": "partial",
+          "extracted_evidence": "Dance houses mentioned but unclear if pre-contact; large residential structures adapted for ceremonies; no distinct special structures confirmed archaeologically for Tsimshian.",
+          "validator_correct": true
+        },
+        {
+          "code": "C08",
+          "extracted": "present",
+          "extracted_evidence": "Tsimshian initiates secluded 4-12 days in huts or caves in bush; initiates into Shamans' dance sequestered in cave surrounded by corpses.",
+          "validator_correct": true
+        },
+        {
+          "code": "C09",
+          "extracted": "present",
+          "extracted_evidence": "Ritual paraphernalia stored in hollow cedar trees, caves (Cave of Animals), locations far from habitation; masks cached at remote sites.",
+          "validator_correct": true
+        },
+        {
+          "code": "C10",
+          "extracted": "present",
+          "extracted_evidence": "Bears, wolves, eagles, sea monsters, thunderbirds, killer whales depicted as threatening power animals; imaginary creatures like Sisiutl prominent in iconography.",
+          "validator_correct": true
+        },
+        {
+          "code": "C11",
+          "extracted": "present",
+          "extracted_evidence": "Regional networks documented; Tsimshian invitations sent to Nass River and Alert Bay; society membership crossing tribal lines; shared iconographic motifs across Northwest Coast.",
+          "validator_correct": true
+        }
+      ],
+      "notes": "y"
+    }
+  ],
+  "timestamp": "2026-05-06T16:08:54.663588"
+}

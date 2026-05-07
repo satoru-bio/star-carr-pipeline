@@ -1,0 +1,12 @@
+criterion_code,criterion_name,n_present,n_partial,n_absent,n_unclear,n_total,pct_present_or_partial,star_carr
+C01,transformation_symbolism,74,9,0,1,84,98.8,present
+C02,feasting,84,0,0,0,84,100.0,present
+C03,exotic_prestige_materials,58,21,0,5,84,94.0,present
+C04,spatial_liminality,32,25,0,27,84,67.9,present
+C05,long_duration_institutional,69,15,0,0,84,100.0,present
+C06,burial_absence,4,10,4,66,84,16.7,present
+C07,special_structure,53,24,0,7,84,91.7,present
+C08,remote_locations,58,11,5,10,84,82.1,unclear
+C09,ritual_paraphernalia_cache,81,2,0,1,84,98.8,partial
+C10,power_animal_iconography,78,2,1,3,84,95.2,present
+C11,interaction_sphere,81,3,0,0,84,100.0,present
